@@ -1,0 +1,15 @@
+T:\Learning Code\C_Sharp\day1-console-app01\bin\Debug\net6.0\day1-console-app01.exe
+T:\Learning Code\C_Sharp\day1-console-app01\bin\Debug\net6.0\day1-console-app01.deps.json
+T:\Learning Code\C_Sharp\day1-console-app01\bin\Debug\net6.0\day1-console-app01.runtimeconfig.json
+T:\Learning Code\C_Sharp\day1-console-app01\bin\Debug\net6.0\day1-console-app01.dll
+T:\Learning Code\C_Sharp\day1-console-app01\bin\Debug\net6.0\day1-console-app01.pdb
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.csproj.AssemblyReference.cache
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.GeneratedMSBuildEditorConfig.editorconfig
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.AssemblyInfoInputs.cache
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.AssemblyInfo.cs
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.csproj.CoreCompileInputs.cache
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.dll
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\refint\day1-console-app01.dll
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.pdb
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\day1-console-app01.genruntimeconfig.cache
+T:\Learning Code\C_Sharp\day1-console-app01\obj\Debug\net6.0\ref\day1-console-app01.dll

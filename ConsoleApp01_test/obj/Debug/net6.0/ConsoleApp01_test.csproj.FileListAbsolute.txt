@@ -1,0 +1,15 @@
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Debug\net6.0\ConsoleApp01_test.exe
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Debug\net6.0\ConsoleApp01_test.deps.json
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Debug\net6.0\ConsoleApp01_test.runtimeconfig.json
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Debug\net6.0\ConsoleApp01_test.dll
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Debug\net6.0\ConsoleApp01_test.pdb
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.csproj.AssemblyReference.cache
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.GeneratedMSBuildEditorConfig.editorconfig
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.AssemblyInfoInputs.cache
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.AssemblyInfo.cs
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.csproj.CoreCompileInputs.cache
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.dll
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\refint\ConsoleApp01_test.dll
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.pdb
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ConsoleApp01_test.genruntimeconfig.cache
+T:\Learning Code\C_Sharp\ConsoleApp01_test\obj\Debug\net6.0\ref\ConsoleApp01_test.dll

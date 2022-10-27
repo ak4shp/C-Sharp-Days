@@ -1,0 +1,5 @@
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Release\net6.0\publish\ConsoleApp01_test.exe
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Release\net6.0\publish\ConsoleApp01_test.dll
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Release\net6.0\publish\ConsoleApp01_test.deps.json
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Release\net6.0\publish\ConsoleApp01_test.runtimeconfig.json
+T:\Learning Code\C_Sharp\ConsoleApp01_test\bin\Release\net6.0\publish\ConsoleApp01_test.pdb
