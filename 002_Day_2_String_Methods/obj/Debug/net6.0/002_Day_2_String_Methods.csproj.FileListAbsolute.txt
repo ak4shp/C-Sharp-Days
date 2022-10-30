@@ -1,0 +1,15 @@
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\bin\Debug\net6.0\002_Day_2_String_Methods.exe
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\bin\Debug\net6.0\002_Day_2_String_Methods.deps.json
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\bin\Debug\net6.0\002_Day_2_String_Methods.runtimeconfig.json
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\bin\Debug\net6.0\002_Day_2_String_Methods.dll
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\bin\Debug\net6.0\002_Day_2_String_Methods.pdb
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.csproj.AssemblyReference.cache
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.GeneratedMSBuildEditorConfig.editorconfig
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.AssemblyInfoInputs.cache
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.AssemblyInfo.cs
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.csproj.CoreCompileInputs.cache
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.dll
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\refint\002_Day_2_String_Methods.dll
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.pdb
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\002_Day_2_String_Methods.genruntimeconfig.cache
+T:\Learning Code\C_Sharp\002_Day_2_String_Methods\obj\Debug\net6.0\ref\002_Day_2_String_Methods.dll

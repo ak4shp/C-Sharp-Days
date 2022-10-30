@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "002_Day_2_String_Methods/1.0.0": {
+        "runtime": {
+          "002_Day_2_String_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "002_Day_2_String_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
