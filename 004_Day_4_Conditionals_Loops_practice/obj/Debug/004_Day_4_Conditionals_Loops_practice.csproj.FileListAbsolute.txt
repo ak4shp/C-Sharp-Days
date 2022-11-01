@@ -1,0 +1,8 @@
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\bin\Debug\004_Day_4_Conditionals_Loops_practice.exe.config
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\bin\Debug\004_Day_4_Conditionals_Loops_practice.exe
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\bin\Debug\004_Day_4_Conditionals_Loops_practice.pdb
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\obj\Debug\004_Day_4_Conditionals_Loops_practice.csproj.AssemblyReference.cache
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\obj\Debug\004_Day_4_Conditionals_Loops_practice.csproj.SuggestedBindingRedirects.cache
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\obj\Debug\004_Day_4_Conditionals_Loops_practice.csproj.CoreCompileInputs.cache
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\obj\Debug\004_Day_4_Conditionals_Loops_practice.exe
+T:\Learning Code\C_Sharp\004_Day_4_Conditionals_Loops_practice\obj\Debug\004_Day_4_Conditionals_Loops_practice.pdb
