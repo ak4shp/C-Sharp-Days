@@ -1,0 +1,15 @@
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\bin\Debug\net6.0\006_Day_6_Collections_Lists.exe
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\bin\Debug\net6.0\006_Day_6_Collections_Lists.deps.json
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\bin\Debug\net6.0\006_Day_6_Collections_Lists.runtimeconfig.json
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\bin\Debug\net6.0\006_Day_6_Collections_Lists.dll
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\bin\Debug\net6.0\006_Day_6_Collections_Lists.pdb
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.csproj.AssemblyReference.cache
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.GeneratedMSBuildEditorConfig.editorconfig
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.AssemblyInfoInputs.cache
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.AssemblyInfo.cs
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.csproj.CoreCompileInputs.cache
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.dll
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\refint\006_Day_6_Collections_Lists.dll
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.pdb
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\006_Day_6_Collections_Lists.genruntimeconfig.cache
+T:\Learning Code\C_Sharp\006_Day_6_Collections_Lists\obj\Debug\net6.0\ref\006_Day_6_Collections_Lists.dll
