@@ -86,5 +86,20 @@ internal class Program
         return NameAgeCity;
 
     }
+
+
+    public static List<int> Fibonacci(int N)
+    {   
+        // if N = 20, The last element = 6765
+        var Fibo = new List<int> {1, 1};
+
+        for (int i = 0; i < N; i ++){
+            var previous = Fibo[Fibo.Count - 1];
+            var previous2 = Fibo[Fibo.Count - 2];
+            Fibo.Add(previous + previous2);
+        }
+
+        return Fibo;
+    }
     
 }
